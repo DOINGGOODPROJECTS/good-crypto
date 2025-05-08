@@ -31,7 +31,7 @@ export default function Home() {
             <Button size="lg" className="bg-emerald-500 hover:bg-emerald-600">
               Apply Now <ArrowRight className="ml-2 h-4 w-4" />
             </Button>
-            <Button size="lg" variant="outline" className="border-slate-600 text-white hover:bg-slate-700">
+            <Button size="lg" variant="outline" className="border-slate-600 text-white bg-slate-700 hover:bg-slate-700">
               Learn More
             </Button>
           </div>
